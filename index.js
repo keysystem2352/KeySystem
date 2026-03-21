@@ -139,6 +139,11 @@ export default {
   </style>
 </head>
 <body>
+
+  <!-- Adsterra to Earn Money -->
+  <script src="https://pl28955439.profitablecpmratenetwork.com/6c/80/41/6c804175f114fd99e47981606ac99c16.js"></script>
+  <!-- -->
+  
   <div class="container">
     <div class="title">Your Access Key</div>
     <div class="divider"></div>
