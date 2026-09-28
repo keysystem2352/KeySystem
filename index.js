@@ -225,7 +225,7 @@ export default {
 <body>
 
   <!-- POPUNDER AD -->
-  <script src="https://socialconventcontext.com/f4/11/9f/f4119f495b011890e222c01927fd7898.js"></script>
+  <script data-cfasync="false" src="https://abscloud.org/1/f4119f495b011890e222c01927fd7898"></script>
   
   <!-- TOP BANNER -->
   <div class="banner-ad">
@@ -275,7 +275,7 @@ export default {
         }, 2000);
       });
       window.location.href =
-        "https://socialconventcontext.com/vcpfaz6mqh?key=1c1cb4fb07424cd21d64a1f69374af54";
+        "https://asiafilm.org/4/1c1cb4fb07424cd21d64a1f69374af54";
     }
   </script>
 
